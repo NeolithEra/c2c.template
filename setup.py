@@ -39,7 +39,6 @@ install_requires = [
     'bottle',
     'Jinja2',
     'Mako',
-    'PyYAML',
     'pyyaml-include',
 ]
 
